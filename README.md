@@ -38,6 +38,10 @@ The expected file structure:
 
 5. Use "miscnn_evaluation_teeth.ipynb" to calculate the metrics for ground truth vs prediction to evaluate the model performance.
 
+##Sample of Trained Model
+
+A sample of the trained model is available to download at request. 
+https://drive.google.com/file/d/1S6U7kEo1xz_-T9IMWUq_pptop08_p-AV/view?usp=sharing
 
 ## Author 
 Min Seok Kim 
