@@ -4,7 +4,8 @@ Teeth Segmentation using 3D UNet with MIScnn Framework
 ## How to Use 
 Install MIScnn following the directions provided in https://github.com/frankkramer-lab/MIScnn
 
-Prepare your data in the expected file structure format.
+1. Prepare your data in the expected file structure format.
+
 The expected file structure:
 ```sh
  data/
@@ -25,7 +26,17 @@ The expected file structure:
               annotation_tag.simplified-15042/
                       000000.dcm
       ...
+```
 
+2. Following the comments, Change the necessary fields in the "miscnn_segment_teeth.ipynb".
+
+   The changes should include the number of folds, directory and data paths, and samples to be included in the training and validation set.
+
+3. Complete the training of the 3D UNet model and check the Training / Validation DSC and Loss 
+
+4. Load the trained model and Create Predictions with the trained model
+
+5. Use "miscnn_evaluation_teeth.ipynb" to calculate the metrics for ground truth vs prediction to evaluate the model performance.
 
 
 ## Author 
