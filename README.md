@@ -41,6 +41,7 @@ The expected file structure:
 ## Sample of Trained Model
 
 A sample of the trained model is available to download at request. 
+
 https://drive.google.com/file/d/1S6U7kEo1xz_-T9IMWUq_pptop08_p-AV/view?usp=sharing
 
 ## Author 
