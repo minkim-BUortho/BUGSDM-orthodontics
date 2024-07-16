@@ -6,6 +6,7 @@ Install MIScnn following the directions provided in https://github.com/frankkram
 
 Prepare your data in the expected file structure format.
 The expected file structure:
+''sh 
  data/
       imgname001/
               any_id/
