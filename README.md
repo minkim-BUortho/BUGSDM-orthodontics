@@ -46,9 +46,13 @@ https://drive.google.com/file/d/1S6U7kEo1xz_-T9IMWUq_pptop08_p-AV/view?usp=shari
 
 ## Author 
 Min Seok Kim 
-Email: minkim@bu.edu 
+
+Email: minkim@bu.edu
+
 DScD/CAGS Orthodontics & Dentofacial Orthopedics Resident
+
 Boston University Goldman School of Dental Medicine
+
 Massachusetts, USA
 
 ## License
